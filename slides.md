@@ -29,7 +29,7 @@ Title Page
 -->
 
 ---
-class: scroll-box
+class: scrollable
 ---
 
 # Webb's Depth of Knowledge (DOK) with Descriptions form Hess' Cognitive Rigor Matrix (CRM)

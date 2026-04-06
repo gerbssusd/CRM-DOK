@@ -17,6 +17,9 @@ drawings:
 transition: fade-
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+# enable Favicon
+favicon: /Maxfav.png
+
 ---
 
 # Putting DOK into Practice 

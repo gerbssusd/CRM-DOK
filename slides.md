@@ -32,7 +32,7 @@ Title Page
 class: scrollable
 ---
 
-# Webb's Depth of Knowledge (DOK) with Descriptions form Hess' Cognitive Rigor Matrix (CRM)
+# Webb's Depth of Knowledge (DOK) with Descriptions from Hess' Cognitive Rigor Matrix (CRM)
 
 <div class="fancy-table-container">
   <table class="fancy-table">
@@ -153,6 +153,8 @@ class: scrollable
   </table>
 </div>
 
+---
+class: scrollable
 ---
 
 # Descriptions of Hess' Cognitive Rigor Matrix
